@@ -11,7 +11,6 @@ plots*/*
 TEX/*
 **/.ipynb_checkpoints/*
 .vscode
-TEST_RESULTS.txt
 OLD_STUFF/*
 TRAINED_MODELS_FOR_EVALUATION
 200_epochs_HIS_DAE/
